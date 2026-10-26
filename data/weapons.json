@@ -1,0 +1,3252 @@
+[
+  {
+    "id": 0,
+    "jp": "木製の剣",
+    "name": "木制剑",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "10",
+      "2",
+      "2",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "低门槛练习武器；伤害不足时换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-1",
+    "oldName": "木制剑",
+    "cnId": "wp-1"
+  },
+  {
+    "id": 1,
+    "jp": "青銅の剣",
+    "name": "青铜剑",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "15",
+      "4",
+      "3",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期低门槛补给；按击杀线决定是否换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-2",
+    "oldName": "青铜剑",
+    "cnId": "wp-2"
+  },
+  {
+    "id": 2,
+    "jp": "鉄の剣",
+    "name": "铁剑",
+    "type": "剑",
+    "stats": [
+      "剑D",
+      "20",
+      "9",
+      "4",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期常规主武器，优先保证命中与追击。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-3",
+    "oldName": "铁剑",
+    "cnId": "wp-3"
+  },
+  {
+    "id": 3,
+    "jp": "銀の剣",
+    "name": "银剑",
+    "type": "剑",
+    "stats": [
+      "剑B",
+      "20",
+      "18",
+      "4",
+      "95",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "后期高威力补给；技能达标后，比较重量与击杀线。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "救世篇：武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-4",
+    "oldName": "银剑",
+    "cnId": "wp-4"
+  },
+  {
+    "id": 4,
+    "jp": "ダ・ミナの剣",
+    "name": "达·米纳剑",
+    "type": "剑",
+    "stats": [
+      "剑C",
+      "25",
+      "12",
+      "4",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "战技命中",
+    "effect": "使用战技攻击时命中+10；本表为未锻造状态。",
+    "advice": "偏重战技的角色可用它提高可靠性，尤其适合命中不足的斧手。若主要普通攻击，就按基础威力、重量与命中选。",
+    "alternative": "黑烟谷商店与专门武具箱可补，不是必须抢的唯一武器。",
+    "acquisition": "黑烟谷达·米纳商店购买  ；达·米纳武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-7",
+    "oldName": "达米纳剑",
+    "cnId": "wp-7"
+  },
+  {
+    "id": 5,
+    "jp": "毒の剣",
+    "name": "毒剑",
+    "type": "剑",
+    "stats": [
+      "剑D",
+      "20",
+      "3",
+      "3",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "上毒与续航",
+    "effect": "命中上毒；锻造+3解锁的战技可对中毒敌吸取一半伤害的HP。",
+    "advice": "低威力不适合作主力。让它先上毒，再由毒系战技或增伤装备收割；队伍不打毒连携就可以略过。",
+    "alternative": "毒弓可远程上毒，风险更低；不必每人各买一把。",
+    "acquisition": "扎斯塔聚落商店购买  ；基拉之村商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-18",
+    "oldName": "毒剑",
+    "cnId": "wp-18"
+  },
+  {
+    "id": 6,
+    "jp": "斬馬刀",
+    "name": "斩马刀",
+    "type": "剑",
+    "stats": [
+      "剑D",
+      "20",
+      "14",
+      "7",
+      "80",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "克骑",
+    "effect": "对骑兵特效，重量7。",
+    "advice": "骑兵多的地图，实际伤害可能优于一般铁剑；让剑系多一种解题手段。",
+    "alternative": "不是唯一品；与克骑枪、克骑弓功能重叠，有人覆盖即可。",
+    "acquisition": "菲那渔村商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-12",
+    "oldName": "斩马刀",
+    "cnId": "wp-12"
+  },
+  {
+    "id": 7,
+    "jp": "キルソード",
+    "name": "必杀剑",
+    "type": "剑",
+    "stats": [
+      "剑C",
+      "40",
+      "11",
+      "6",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "必杀战技",
+    "effect": "本体必杀栏为0；附带耐久消耗2、必杀+15的战技。",
+    "advice": "别把名称理解成普攻常驻高必杀。适合侍道、刀剑将领将职业必杀与战技叠加。",
+    "alternative": "普通高命中剑更适合稳定补刀；有商店与箱子补充。",
+    "acquisition": "雷基亚镇商店购买  ；第一部：阴暗洞窟的宝箱  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-5",
+    "oldName": "必杀剑",
+    "cnId": "wp-5"
+  },
+  {
+    "id": 8,
+    "jp": "フリッサ",
+    "name": "伏力萨",
+    "type": "剑",
+    "stats": [
+      "剑C",
+      "20",
+      "10",
+      "4",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "克重装",
+    "effect": "重装特效；重量4、命中90。",
+    "advice": "轻量高命中的破甲工具，剑手碰到重装不用硬磨。物理队缺破甲时值得买。",
+    "alternative": "有魔法输出覆盖时优先级下降；并非唯一。",
+    "acquisition": "卡里亚涅拉港商店购买  ；扎斯塔聚落商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-6",
+    "oldName": "弗利萨剑",
+    "cnId": "wp-6"
+  },
+  {
+    "id": 9,
+    "jp": "サンダーソード",
+    "name": "雷电剑",
+    "type": "剑",
+    "stats": [
+      "剑C",
+      "20",
+      "12",
+      "8",
+      "70",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "魔法·远程",
+    "effect": "普攻按魔法攻击；射程1—2。雷击战技耐久5、威力+8、命中+20。",
+    "advice": "让能持剑的高魔力角色打敌人魔防，且可隔格反击。这是改变攻击类型的工具，不是雷属性换皮。",
+    "alternative": "力量高、魔力低的剑士未必适合；能施法的职业可用普通魔法替代部分功能。",
+    "acquisition": "救世篇：卡里亚涅拉港商店购买  ；凯伊篇：盛托利翁训练奖励(要：名声Lv.6)  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-14",
+    "oldName": "雷剑",
+    "cnId": "wp-14"
+  },
+  {
+    "id": 10,
+    "jp": "疾風の剣",
+    "name": "疾风剑",
+    "type": "剑",
+    "stats": [
+      "剑C",
+      "20",
+      "8",
+      "2",
+      "90",
+      "10",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "回避·轻量",
+    "effect": "重量2，回避+10。",
+    "advice": "对高速剑士保住攻速、追击与回避有价值；低威力意味着它更像生存武器。",
+    "alternative": "按战斗预览比较是否多追击；不打回避流就不必追求。",
+    "acquisition": "威利村商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-15",
+    "oldName": "疾风剑",
+    "cnId": "wp-15"
+  },
+  {
+    "id": 11,
+    "jp": "グレートソード",
+    "name": "巨剑",
+    "type": "剑",
+    "stats": [
+      "剑D/斧D",
+      "30",
+      "15",
+      "15",
+      "60",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "高威力·克重装",
+    "effect": "剑D/斧D；重量15、命中60，重装特效。",
+    "advice": "适合能消化重量、能补命中的力量角色；不适合一味追求速度的剑士。",
+    "alternative": "轻便破甲可用伏力萨；高威力不代表总伤害必胜。",
+    "acquisition": "王都格兰·亚拉功商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-10",
+    "oldName": "巨剑",
+    "cnId": "wp-10"
+  },
+  {
+    "id": 12,
+    "jp": "清めの剣",
+    "name": "净化剑",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "20",
+      "8",
+      "3",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "消除冥府加护",
+    "effect": "战斗时无效敌人的冥府加护；正确技能门槛为剑E。",
+    "advice": "其关键是突破敌方机制，不是基础威力8。后期遇到相关敌人时比高面板白板剑更有意义。",
+    "alternative": "已有其他破加护手段可降低优先级；存在商店、交换或箱子来源，不宜说成唯一神器。",
+    "acquisition": "欧西利斯村商店购买  ；高级武具箱随机取得；补充：欧西利斯村商店3000G、库存1；另有交换/任务来源。",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "Altema表写剑B，Game8与GameWith均为剑E；此处采用E。",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ],
+      [
+        "Game8：净化剑",
+        "https://game8.jp/fe-banshisenko/819533"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-8",
+    "oldName": "净化剑",
+    "cnId": "wp-8"
+  },
+  {
+    "id": 13,
+    "jp": "邪剣ヴェロキネ",
+    "name": "邪剑 贝洛基涅",
+    "type": "剑",
+    "stats": [
+      "剑B/斧C",
+      "30",
+      "13",
+      "12",
+      "60",
+      "0",
+      "0",
+      "1",
+      "2"
+    ],
+    "priority": "按构筑",
+    "tag": "爆发·诅咒",
+    "effect": "诅咒2；绝花消耗10、威力+15、命中+20，并有技巧相关的免耐久触发。",
+    "advice": "用于关键目标爆发；本体重、命中低，平砍表现不一定优秀。",
+    "alternative": "需要修理资源与命中支持；对冥府加护敌人的诅咒相消限制另见机制说明。",
+    "acquisition": "第一部：禁忌之森的宝箱",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-16",
+    "oldName": "邪剑贝洛基涅",
+    "cnId": "wp-16"
+  },
+  {
+    "id": 14,
+    "jp": "羅刹女の徹扇",
+    "name": "罗刹女的彻扇",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "20",
+      "10",
+      "4",
+      "80",
+      "0",
+      "0",
+      "1",
+      "1"
+    ],
+    "priority": "剧情保留",
+    "tag": "魔法·上毒",
+    "effect": "普攻为近战；瘴风战技射程1—2、魔法伤害并上毒，消耗2，不可追击。",
+    "advice": "低剑术门槛的远程魔法/异常工具，适合魔力较高者。它的价值主要来自战技，不要拿本体威力直接比较。",
+    "alternative": "蕾达早期固定奖励，建议留着；雷电剑可替代魔法远程，但不替代上毒。",
+    "acquisition": "蕾达篇：2章波尔波亚之战完成",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-17",
+    "oldName": "罗刹女铁扇",
+    "cnId": "wp-17"
+  },
+  {
+    "id": 15,
+    "jp": "常夜のカタラ",
+    "name": "常夜的卡塔拉",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "20",
+      "5",
+      "4",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "幸运累积",
+    "effect": "夺运耐久1，击杀后幸运+2，地图内最多+10。",
+    "advice": "适合围绕幸运技能的角色或容易收尾的人；为了叠层而拖慢队伍并不划算。",
+    "alternative": "本体威力5较低；没有幸运联动就只需收藏。",
+    "acquisition": "救世篇：谭利穆恩加入时初始装备",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-158",
+    "oldName": "常夜卡塔拉",
+    "cnId": "wp-158"
+  },
+  {
+    "id": 16,
+    "jp": "アンスウェラー",
+    "name": "安萨拉",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "20",
+      "9",
+      "4",
+      "90",
+      "0",
+      "0",
+      "1",
+      "0"
+    ],
+    "priority": "剧情保留",
+    "tag": "专属·克龙",
+    "effect": "迪托利希才能使用血闪：消耗2、必杀+20并对龙有利。",
+    "advice": "角色专属战技平台，建议保留并关注后续强化事件。",
+    "alternative": "通用剑能替代普攻，不能替代专属战技与升级线。",
+    "acquisition": "迪托利希篇：迪托利希初始武器",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-19",
+    "oldName": "安萨拉",
+    "cnId": "wp-19"
+  },
+  {
+    "id": 17,
+    "jp": "開かれし救世の剣",
+    "name": "开启救世之剑",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "20",
+      "6",
+      "5",
+      "90",
+      "0",
+      "0",
+      "1",
+      "0"
+    ],
+    "priority": "按构筑",
+    "tag": "邻接支援",
+    "effect": "相邻友军防御+1，免费更新特典。",
+    "advice": "作为支援携带有小幅价值；不要因联动名称高估输出。",
+    "alternative": "加成小，普通主力剑更适合击杀任务。",
+    "acquisition": "免费更新特典",
+    "scarcity": "免费更新赠品；无需花钱追购",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-20",
+    "oldName": "开启的救世之剑",
+    "cnId": "wp-20"
+  },
+  {
+    "id": 18,
+    "jp": "王家の宝剣",
+    "name": "王室宝剑",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "10",
+      "5",
+      "4",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "范围魔法",
+    "effect": "特殊范围魔法战技消耗10，基础耐久也是10；伤害有减半处理。",
+    "advice": "密集敌群时可提供特殊攻击方式，代价是一次战技就需考虑修理。",
+    "alternative": "不是高效常规武器；先看范围内总收益，不追求单体数字。",
+    "acquisition": "免费更新特典",
+    "scarcity": "免费更新赠品；无需花钱追购",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-22",
+    "oldName": "王家宝剑",
+    "cnId": "wp-22"
+  },
+  {
+    "id": 19,
+    "jp": "邪剣エンジュラ",
+    "name": "邪剑 恩久拉",
+    "type": "剑",
+    "stats": [
+      "剑A",
+      "20",
+      "14",
+      "8",
+      "80",
+      "0",
+      "0",
+      "1",
+      "2"
+    ],
+    "priority": "按构筑",
+    "tag": "毒连携·诅咒",
+    "effect": "毒葬消耗5、威力+8；敌人中毒再获攻击+8。",
+    "advice": "先用毒武器上异常，再用它收割；脱离毒队则只是有诅咒风险的专用爆发剑。",
+    "alternative": "普通剑稳定省事；需要额外上毒行动成本。",
+    "acquisition": "战争篇：完成奖励",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-223",
+    "oldName": "邪剑恩朱拉",
+    "cnId": "wp-223"
+  },
+  {
+    "id": 20,
+    "jp": "アンスウェラー改",
+    "name": "安萨拉改",
+    "type": "剑",
+    "stats": [
+      "剑E",
+      "20",
+      "15",
+      "4",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "专属升级·克龙",
+    "effect": "血闪+消耗2、威力+10、必杀+20，迪托利希专用战技。",
+    "advice": "低门槛、轻量且专属战技效率高。迪托利希篇第12章的对话与特别比赛值得专门检查。",
+    "alternative": "事件条件明确：与法毕欧对话后参加特别比赛。不要把剧情推进当作必定自动获得。",
+    "acquisition": "迪托利希篇：第一部12章与法毕欧进行事件对话后，在特别比赛取得",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-227",
+    "oldName": "安萨拉改",
+    "cnId": "wp-227"
+  },
+  {
+    "id": 21,
+    "jp": "木製の枪",
+    "name": "木制枪",
+    "type": "枪",
+    "stats": [
+      "枪E",
+      "10",
+      "3",
+      "5",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "低门槛练习武器；伤害不足时换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-24",
+    "oldName": "木制枪",
+    "cnId": "wp-24"
+  },
+  {
+    "id": 22,
+    "jp": "青銅の枪",
+    "name": "青铜枪",
+    "type": "枪",
+    "stats": [
+      "枪E",
+      "15",
+      "5",
+      "7",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期低门槛补给；按击杀线决定是否换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-25",
+    "oldName": "青铜枪",
+    "cnId": "wp-25"
+  },
+  {
+    "id": 23,
+    "jp": "鉄の枪",
+    "name": "铁枪",
+    "type": "枪",
+    "stats": [
+      "枪D",
+      "20",
+      "10",
+      "7",
+      "80",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期常规主武器，优先保证命中与追击。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-26",
+    "oldName": "铁枪",
+    "cnId": "wp-26"
+  },
+  {
+    "id": 24,
+    "jp": "手枪",
+    "name": "标枪",
+    "type": "枪",
+    "stats": [
+      "枪D",
+      "20",
+      "3",
+      "8",
+      "80",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "远程反击",
+    "effect": "射程1—2，威力3。",
+    "advice": "枪手的基础工具：反击远程敌、避免部分近战反击、补刀。射程功能比低面板更重要。",
+    "alternative": "常规商店补给，不稀缺；不需要高价囤积。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-28",
+    "oldName": "投枪",
+    "cnId": "wp-28"
+  },
+  {
+    "id": 25,
+    "jp": "銀の枪",
+    "name": "银枪",
+    "type": "枪",
+    "stats": [
+      "枪B",
+      "20",
+      "20",
+      "6",
+      "85",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "后期高威力补给；技能达标后，比较重量与击杀线。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "救世篇：武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-27",
+    "oldName": "银枪",
+    "cnId": "wp-27"
+  },
+  {
+    "id": 26,
+    "jp": "ショートスピア",
+    "name": "短枪",
+    "type": "枪",
+    "stats": [
+      "枪C",
+      "20",
+      "5",
+      "10",
+      "75",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "远程升级",
+    "effect": "射程1—2，较标枪威力高2，但更重、命中更低。",
+    "advice": "是否升级取决于多出的威力能否改变击杀线；若因此丢追击或命中，反而不如标枪。",
+    "alternative": "普通补给；不属于错过就遗憾的稀缺物。",
+    "acquisition": "武器商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-29",
+    "oldName": "短投枪",
+    "cnId": "wp-29"
+  },
+  {
+    "id": 27,
+    "jp": "ダ・ミナの枪",
+    "name": "达·米纳枪",
+    "type": "枪",
+    "stats": [
+      "枪C",
+      "25",
+      "13",
+      "7",
+      "80",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "战技命中",
+    "effect": "使用战技攻击时命中+10；本表为未锻造状态。",
+    "advice": "偏重战技的角色可用它提高可靠性，尤其适合命中不足的斧手。若主要普通攻击，就按基础威力、重量与命中选。",
+    "alternative": "黑烟谷商店与专门武具箱可补，不是必须抢的唯一武器。",
+    "acquisition": "黑烟谷达·米纳商店购买  ；达·米纳武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-31",
+    "oldName": "达米纳枪",
+    "cnId": "wp-31"
+  },
+  {
+    "id": 28,
+    "jp": "グレイブ",
+    "name": "长柄刀",
+    "type": "枪",
+    "stats": [
+      "剑D/枪D",
+      "20",
+      "6",
+      "6",
+      "90",
+      "0",
+      "5",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "必杀",
+    "effect": "本体必杀5；战技额外必杀+15，耐久2。",
+    "advice": "适合叠必杀的剑枪兼修角色；可靠击杀仍要按非必杀伤害规划。",
+    "alternative": "白板枪用于稳定输出；不要把随机必杀当作保证。",
+    "acquisition": "领都卡西托商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-40",
+    "oldName": "薙刀",
+    "cnId": "wp-40"
+  },
+  {
+    "id": 29,
+    "jp": "偃月刀",
+    "name": "偃月刀",
+    "type": "枪",
+    "stats": [
+      "剑D/枪B",
+      "20",
+      "11",
+      "9",
+      "90",
+      "10",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "回避·高命中",
+    "effect": "命中90、回避+10；剑D/枪B，重量9。",
+    "advice": "适合想用枪又需要回避和命中的角色；不是单纯更高威力的枪。",
+    "alternative": "回避收益需抵消重量带来的攻速变化；现有来源有商店，不能据单店限量断言全局唯一。",
+    "acquisition": "吉玛港商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-35",
+    "oldName": "偃月刀",
+    "cnId": "wp-35"
+  },
+  {
+    "id": 30,
+    "jp": "ナイトキラー",
+    "name": "骑士杀手",
+    "type": "枪",
+    "stats": [
+      "枪C",
+      "20",
+      "12",
+      "10",
+      "70",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "强克骑",
+    "effect": "对骑兵较强特效；威力12、重量10、命中70。",
+    "advice": "虽枪类本已有对骑优势，它仍提供更专门的克骑火力。骑兵密集关值得装备。",
+    "alternative": "非骑目标不一定优于普通枪；商店可补，不必囤。",
+    "acquisition": "王都美盖拉商店购买  ；救世篇：扎斯塔聚落商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-32",
+    "oldName": "骑士杀手",
+    "cnId": "wp-32"
+  },
+  {
+    "id": 31,
+    "jp": "妖枪ヴェンデッタ",
+    "name": "妖枪 温黛塔",
+    "type": "枪",
+    "stats": [
+      "枪A",
+      "20",
+      "27",
+      "20",
+      "60",
+      "0",
+      "0",
+      "1-2",
+      "2"
+    ],
+    "priority": "剧情保留",
+    "tag": "超远程·诅咒",
+    "effect": "本体射程1—2、威力27、重量20；霸蛇战技射程2—5，消耗10，不追击。",
+    "advice": "提供枪系罕见长射程，可跨危险区点杀；重和命中60决定它不适合当万能普攻枪。",
+    "alternative": "给高命中角色使用；需考虑诅咒相消与高修理消耗。",
+    "acquisition": "战争篇：第3章完成",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-161",
+    "oldName": "妖枪复仇",
+    "cnId": "wp-161"
+  },
+  {
+    "id": 32,
+    "jp": "氷の救世の枪",
+    "name": "冰冻救世之枪",
+    "type": "枪",
+    "stats": [
+      "枪E",
+      "20",
+      "7",
+      "7",
+      "85",
+      "10",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "回避",
+    "effect": "回避+10，枪E；免费更新特典。",
+    "advice": "低门槛回避工具，早期有用；不是因为冰的名称就能冻结敌人。",
+    "alternative": "已获得即可试用，无需占用商人购买预算。",
+    "acquisition": "免费更新特典",
+    "scarcity": "免费更新赠品；无需花钱追购",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-50",
+    "oldName": "冰之救世枪",
+    "cnId": "wp-50"
+  },
+  {
+    "id": 33,
+    "jp": "ハルバード",
+    "name": "斧枪",
+    "type": "枪",
+    "stats": [
+      "枪D/斧D",
+      "25",
+      "12",
+      "12",
+      "70",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "克重装",
+    "effect": "枪D/斧D，对重装有利。",
+    "advice": "给缺魔法的枪斧角色补破甲攻击面。",
+    "alternative": "重量12、命中70需留意；凯伊训练奖励可替代购买。",
+    "acquisition": "莱伊·欧港商店购买  ；凯伊篇：贝特兰训练奖励(要：名声Lv.5)",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-39",
+    "oldName": "长柄斧枪",
+    "cnId": "wp-39"
+  },
+  {
+    "id": 34,
+    "jp": "マハマドゥの枪",
+    "name": "马哈马杜之枪",
+    "type": "枪",
+    "stats": [
+      "枪E",
+      "20",
+      "10",
+      "8",
+      "85",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "续航",
+    "effect": "真月消耗3、威力+10，战后中幅自疗。",
+    "advice": "高效自疗兼输出；适合赛奥朵拉维持前线血线，也可配合消耗HP的战术。",
+    "alternative": "初始剧情装备，别因后续普通枪面板更高就卖掉。",
+    "acquisition": "赛奥朵拉篇：赛奥朵拉加入时初始装备",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-46",
+    "oldName": "马哈马杜之枪",
+    "cnId": "wp-46"
+  },
+  {
+    "id": 35,
+    "jp": "邪枪ムーエン",
+    "name": "邪枪 穆恩",
+    "type": "枪",
+    "stats": [
+      "枪A",
+      "30",
+      "22",
+      "20",
+      "45",
+      "0",
+      "0",
+      "1",
+      "2"
+    ],
+    "priority": "按构筑",
+    "tag": "击杀后防护·诅咒",
+    "effect": "威力22但命中45、重量20；黑轰击杀后耐物+10至下次己方回合。",
+    "advice": "思路是先确保杀敌，再承接物理压力；若第一击不可靠，整个战术就失败。",
+    "alternative": "高命中支援不足时可以不投资；不是泛用主力。",
+    "acquisition": "第一部：库加大森林带的宝箱",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-48",
+    "oldName": "邪枪穆恩",
+    "cnId": "wp-48"
+  },
+  {
+    "id": 36,
+    "jp": "邪枪ハノーア",
+    "name": "邪枪 哈诺亚",
+    "type": "枪",
+    "stats": [
+      "枪A",
+      "20",
+      "12",
+      "7",
+      "80",
+      "0",
+      "0",
+      "1",
+      "1"
+    ],
+    "priority": "按构筑",
+    "tag": "克骑战技·诅咒",
+    "effect": "灭骑消耗5，对骑敌额外攻击+15；诅咒1。",
+    "advice": "对指定骑兵爆发用，普通阶段有利；后期须检查冥府加护限制。",
+    "alternative": "骑士杀手是更简单的替代，已有它就不必为此绕远。",
+    "acquisition": "第一部：巨人足迹堡垒的宝箱",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-49",
+    "oldName": "邪枪哈诺亚",
+    "cnId": "wp-49"
+  },
+  {
+    "id": 37,
+    "jp": "アウロラの星枪",
+    "name": "欧若拉之星枪",
+    "type": "枪",
+    "stats": [
+      "枪C",
+      "25",
+      "16",
+      "8",
+      "85",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "魔法·克冥魔",
+    "effect": "星光战技射程1—2、魔法伤害、对冥魔有利，消耗10且不追击。",
+    "advice": "枪手多一个魔法破甲和特定敌人解法，尤其适合魔力不低者。",
+    "alternative": "耐久25只能连续用两次该战技；应为关键敌保留。",
+    "acquisition": "凯伊篇：第一部10章剧情取得",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-47",
+    "oldName": "阿乌罗拉星枪",
+    "cnId": "wp-47"
+  },
+  {
+    "id": 38,
+    "jp": "ゲキ",
+    "name": "长戟",
+    "type": "枪",
+    "stats": [
+      "枪B/斧D",
+      "25",
+      "11",
+      "7",
+      "80",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "克重装·低耗战技",
+    "effect": "克重装；风缠消耗1、威力+2、命中+10，并有10%概率阻止反击。",
+    "advice": "低耗战技作为日常破甲工具很实用。",
+    "alternative": "10%免反击不能当作安全保证；按敌人确实会反击来算生存。",
+    "acquisition": "帕恩朵拉港都商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-41",
+    "oldName": "戟",
+    "cnId": "wp-41"
+  },
+  {
+    "id": 39,
+    "jp": "スレンドスピア",
+    "name": "投枪",
+    "type": "枪",
+    "stats": [
+      "枪B",
+      "25",
+      "11",
+      "12",
+      "70",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "远程升级",
+    "effect": "射程1—2，威力11、重量12、命中70。",
+    "advice": "远程枪的高威力版本，适合力量或体格足的枪手。",
+    "alternative": "比标枪更贵更重；只在击杀线或反击伤害改善时购买。",
+    "acquisition": "救世篇：帕恩朵拉港都商店购买  ；救世篇：吉玛港商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "原汇总射程字段被误转成日期数字46024；更正为1—2。",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-30",
+    "oldName": "细长投枪",
+    "cnId": "wp-30"
+  },
+  {
+    "id": 40,
+    "jp": "シンザのモリ",
+    "name": "辛萨的鱼叉",
+    "type": "枪",
+    "stats": [
+      "枪E",
+      "30",
+      "10",
+      "16",
+      "65",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "专属搭配·投掷",
+    "effect": "普攻1—2，重量16；强投战技威力+10、命中-20。",
+    "advice": "适合能缓解重量、强化投掷的艾丝梅拉尔达；其他角色可能很吃力。",
+    "alternative": "不要只看E门槛就分给轻装新人；命中支援优先。",
+    "acquisition": "迪托利希篇：艾丝梅拉尔达加入时初始装备",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-43",
+    "oldName": "辛札鱼叉",
+    "cnId": "wp-43"
+  },
+  {
+    "id": 41,
+    "jp": "魔枪グラシーダ",
+    "name": "魔枪 古拉迪乌斯",
+    "type": "枪",
+    "stats": [
+      "枪B",
+      "30",
+      "14",
+      "14",
+      "75",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "专属·克兽龙",
+    "effect": "本体1—2；艾丝梅拉尔达专属无尘战技对兽与龙有利。",
+    "advice": "角色专属攻击面，值得保留。名字带魔不表示普通攻击按魔力计算。",
+    "alternative": "普通标枪能替代射程，不能替代专属特效战技。",
+    "acquisition": "迪托利希篇：8章完成",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-45",
+    "oldName": "魔枪格拉西达",
+    "cnId": "wp-45"
+  },
+  {
+    "id": 42,
+    "jp": "無銘の枪",
+    "name": "无铭之枪",
+    "type": "枪",
+    "stats": [
+      "枪E",
+      "20",
+      "13",
+      "7",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "后续修复",
+    "effect": "修复后变为索雷尔的辉枪。",
+    "advice": "这是升级任务素材兼武器，建议保留。",
+    "alternative": "不要只按当前威力13当作普通可卖装备。",
+    "acquisition": "救世篇：主人公初始武器",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-214",
+    "oldName": "无名之枪",
+    "cnId": "wp-214"
+  },
+  {
+    "id": 43,
+    "jp": "ソレルの輝枪",
+    "name": "索雷尔的辉枪",
+    "type": "枪",
+    "stats": [
+      "枪A",
+      "20",
+      "18",
+      "7",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "吸血",
+    "effect": "太阳战技消耗10，回复造成伤害的一半HP（基础效果）。",
+    "advice": "在输出同时维持血线；价值依赖实际打出的伤害，打不动高防敌也吸不回多少。",
+    "alternative": "复兴柯雷尔神殿后对话取得；高耗战技需备修理。",
+    "acquisition": "柯雷尔神殿复兴后、柯雷尔对话",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-228",
+    "oldName": "索雷尔辉枪",
+    "cnId": "wp-228"
+  },
+  {
+    "id": 44,
+    "jp": "聖枪アッサル",
+    "name": "圣枪阿萨勒",
+    "type": "枪",
+    "stats": [
+      "枪D",
+      "20",
+      "7",
+      "8",
+      "85",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "击杀续航",
+    "effect": "圣击耐久1，击杀后中幅回复HP。",
+    "advice": "低耗收割续航，适合可靠补刀者。",
+    "alternative": "未击杀就不触发，不能当作随时可用治疗。",
+    "acquisition": "西提司加入时初始装备",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-44",
+    "oldName": "圣枪阿萨尔",
+    "cnId": "wp-44"
+  },
+  {
+    "id": 45,
+    "jp": "木製の斧",
+    "name": "木制斧",
+    "type": "斧",
+    "stats": [
+      "斧E",
+      "15",
+      "5",
+      "7",
+      "70",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "低门槛练习武器；伤害不足时换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-52",
+    "oldName": "木制斧",
+    "cnId": "wp-52"
+  },
+  {
+    "id": 46,
+    "jp": "青銅の斧",
+    "name": "青铜斧",
+    "type": "斧",
+    "stats": [
+      "斧E",
+      "20",
+      "7",
+      "9",
+      "70",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期低门槛补给；按击杀线决定是否换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-53",
+    "oldName": "青铜斧",
+    "cnId": "wp-53"
+  },
+  {
+    "id": 47,
+    "jp": "鉄の斧",
+    "name": "铁斧",
+    "type": "斧",
+    "stats": [
+      "斧D",
+      "25",
+      "13",
+      "10",
+      "65",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期常规主武器，优先保证命中与追击。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-54",
+    "oldName": "铁斧",
+    "cnId": "wp-54"
+  },
+  {
+    "id": 48,
+    "jp": "手斧",
+    "name": "手斧",
+    "type": "斧",
+    "stats": [
+      "斧D",
+      "25",
+      "5",
+      "10",
+      "65",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "远程反击",
+    "effect": "射程1—2、威力5、命中65。",
+    "advice": "斧系的基本远程工具，补刀和反击很有用。",
+    "alternative": "常规商店品，重点是有一把而非稀缺收藏。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-56",
+    "oldName": "投斧",
+    "cnId": "wp-56"
+  },
+  {
+    "id": 49,
+    "jp": "ショートアクス",
+    "name": "短斧",
+    "type": "斧",
+    "stats": [
+      "斧C",
+      "25",
+      "9",
+      "12",
+      "60",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "远程升级",
+    "effect": "比手斧高4威力，但更重、命中低5。",
+    "advice": "面对低回避敌时有升级意义，高回避敌仍可能手斧更稳。",
+    "alternative": "普通补给，不必为了稀缺担忧。",
+    "acquisition": "武器商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-57",
+    "oldName": "短投斧",
+    "cnId": "wp-57"
+  },
+  {
+    "id": 50,
+    "jp": "銀の斧",
+    "name": "银斧",
+    "type": "斧",
+    "stats": [
+      "斧B",
+      "25",
+      "23",
+      "9",
+      "70",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "后期高威力补给；技能达标后，比较重量与击杀线。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "救世篇：武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-55",
+    "oldName": "银斧",
+    "cnId": "wp-55"
+  },
+  {
+    "id": 51,
+    "jp": "サガリス",
+    "name": "投斧",
+    "type": "斧",
+    "stats": [
+      "斧B",
+      "30",
+      "15",
+      "14",
+      "55",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "远程高威力",
+    "effect": "射程1—2、威力15、命中55、重量14。",
+    "advice": "能补大量命中的斧手可用；新人最容易被高威力误导。",
+    "alternative": "手斧/短斧可替代射程；优先比较命中和攻速。",
+    "acquisition": "救世篇：武器商店购买  ；救世篇：贝涅托那许村商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-59",
+    "oldName": "萨加里斯斧",
+    "cnId": "wp-59"
+  },
+  {
+    "id": 52,
+    "jp": "ダ・ミナの斧",
+    "name": "达·米纳斧",
+    "type": "斧",
+    "stats": [
+      "斧C",
+      "30",
+      "16",
+      "10",
+      "65",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "战技命中",
+    "effect": "使用战技攻击时命中+10；本表为未锻造状态。",
+    "advice": "偏重战技的角色可用它提高可靠性，尤其适合命中不足的斧手。若主要普通攻击，就按基础威力、重量与命中选。",
+    "alternative": "黑烟谷商店与专门武具箱可补，不是必须抢的唯一武器。",
+    "acquisition": "黑烟谷达·米纳商店购买  ；达·米纳武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-60",
+    "oldName": "达米纳斧",
+    "cnId": "wp-60"
+  },
+  {
+    "id": 53,
+    "jp": "バルディッシュ",
+    "name": "长柄斧",
+    "type": "斧",
+    "stats": [
+      "枪D/斧D",
+      "20",
+      "13",
+      "9",
+      "65",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "克骑",
+    "effect": "枪D/斧D，对骑兵有利，重量9。",
+    "advice": "给斧系补克骑工具，命中65要用技能或支援补足。",
+    "alternative": "队伍已有克骑枪弓可不买；多来源可补。",
+    "acquisition": "贝涅托那许村商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-68",
+    "oldName": "巴迪什斧",
+    "cnId": "wp-68"
+  },
+  {
+    "id": 54,
+    "jp": "ハンマー",
+    "name": "战锤",
+    "type": "斧",
+    "stats": [
+      "斧D",
+      "30",
+      "14",
+      "20",
+      "60",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "强克重装",
+    "effect": "对重装较强特效，重量20、命中60。",
+    "advice": "用于重装解题而非普通敌；低速度角色一次重击也可有价值。",
+    "alternative": "魔法或轻型破甲更稳定时可跳过；注意被追击风险。",
+    "acquisition": "王都格兰·亚拉功商店购买  ；第一部：涅梅亚大洞窟的宝箱",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-63",
+    "oldName": "战锤",
+    "cnId": "wp-63"
+  },
+  {
+    "id": 55,
+    "jp": "ダグザの棍棒",
+    "name": "达格扎的棍棒",
+    "type": "斧",
+    "stats": [
+      "斧A",
+      "35",
+      "36",
+      "25",
+      "5",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "极端爆发",
+    "effect": "威力36、命中仅5、重量25；只能用神击，消耗10、威力+30。",
+    "advice": "极端命中补偿构筑才考虑。面板巨大但打不中就没有收益，普通队不值得围绕它投入。",
+    "alternative": "不是新手必追武器；常规斧远更可靠。",
+    "acquisition": "战争篇：完成奖励",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-224",
+    "oldName": "达格扎棍棒",
+    "cnId": "wp-224"
+  },
+  {
+    "id": 56,
+    "jp": "邪斧ヴェルハイト",
+    "name": "邪斧维尔海特",
+    "type": "斧",
+    "stats": [
+      "斧A",
+      "25",
+      "13",
+      "5",
+      "95",
+      "0",
+      "0",
+      "1",
+      "1"
+    ],
+    "priority": "优先留1",
+    "tag": "轻量高命中·诅咒",
+    "effect": "重量5、命中95；岚步消耗3，击杀后攻速+10至下次己方回合。",
+    "advice": "弥补斧常见的重与低命中弱点，前期实战价值很高。",
+    "alternative": "后期对冥府加护敌人受诅咒机制限制，不能一路无脑用到底。",
+    "acquisition": "第一部：封咒祭坛的宝箱",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-71",
+    "oldName": "邪斧维尔海特",
+    "cnId": "wp-71"
+  },
+  {
+    "id": 57,
+    "jp": "スマッシュアクス",
+    "name": "猛击斧",
+    "type": "斧",
+    "stats": [
+      "斧C",
+      "25",
+      "14",
+      "10",
+      "65",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "破坏障碍",
+    "effect": "粉碎一击消耗2，可破坏障碍物。",
+    "advice": "地图有阻路障碍时提供路线解法；非这类地图只是普通中档斧。",
+    "alternative": "没有相关地图需求可暂缓购买。",
+    "acquisition": "马恩城郭商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-65",
+    "oldName": "粉碎斧",
+    "cnId": "wp-65"
+  },
+  {
+    "id": 58,
+    "jp": "鷹爪斧",
+    "name": "鹰爪斧",
+    "type": "斧",
+    "stats": [
+      "剑D/斧D",
+      "20",
+      "4",
+      "8",
+      "75",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "轻量远程",
+    "effect": "射程1—2、重量8、命中75，威力仅4。",
+    "advice": "远程斧里更偏稳定与轻便，适合补刀和维持攻速。",
+    "alternative": "手斧便宜常见；多出的命中能改善可靠性时再买。",
+    "acquisition": "托巴霖村商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-67",
+    "oldName": "鹰爪斧",
+    "cnId": "wp-67"
+  },
+  {
+    "id": 59,
+    "jp": "シールドアクス",
+    "name": "护盾斧",
+    "type": "斧",
+    "stats": [
+      "斧C",
+      "25",
+      "13",
+      "12",
+      "65",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "敌方回合防护",
+    "effect": "后手战斗耐物+3。",
+    "advice": "守口、诱敌、承受物理攻击时有用；搭配本来就抗物理的斧手。",
+    "alternative": "主动攻击收益有限，且重量12；不要让它拖到被额外追击。",
+    "acquisition": "王都美盖拉商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-61",
+    "oldName": "盾斧",
+    "cnId": "wp-61"
+  },
+  {
+    "id": 60,
+    "jp": "邪斧ガンドギャ",
+    "name": "邪斧 冈德加",
+    "type": "斧",
+    "stats": [
+      "斧A",
+      "25",
+      "16",
+      "12",
+      "75",
+      "0",
+      "0",
+      "1",
+      "1"
+    ],
+    "priority": "按构筑",
+    "tag": "克法师·诅咒",
+    "effect": "魔裂消耗3，对魔法敌人攻击+15、命中+10。",
+    "advice": "用于点杀法系；斧手本来就怕法术时，应争取先手击杀。",
+    "alternative": "并不提供免疫魔法；后期诅咒限制仍在。",
+    "acquisition": "第一部：沙影堡垒的宝箱",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-155",
+    "oldName": "邪斧甘多迦",
+    "cnId": "wp-155"
+  },
+  {
+    "id": 61,
+    "jp": "ザルモクシス",
+    "name": "扎尔莫克西斯",
+    "type": "斧",
+    "stats": [
+      "斧E",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "突破冥府加护",
+    "effect": "霸绝+消耗6、威力+12，无效冥府加护后计算伤害。",
+    "advice": "后期重要的机制对策，贝特兰加入时值得检查。",
+    "alternative": "来源表缺基础面板，图鉴保留空值，绝不把空白当成0；可与净化剑分工。",
+    "acquisition": "救世篇：贝特兰加入时初始装备",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-69",
+    "oldName": "扎尔莫克西斯",
+    "cnId": "wp-69"
+  },
+  {
+    "id": 62,
+    "jp": "メイス",
+    "name": "锤矛",
+    "type": "斧",
+    "stats": [
+      "斧E",
+      "20",
+      "3",
+      "5",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "魔法战技",
+    "effect": "本体威力3；魔冲打击消耗1、威力+4，按魔法攻击。",
+    "advice": "魔力较高、能用斧的混合职业可低耗打魔防。",
+    "alternative": "力量型斧手收益有限；本体不等于魔法普攻。",
+    "acquisition": "救世篇：托巴霖村商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-66",
+    "oldName": "钉锤",
+    "cnId": "wp-66"
+  },
+  {
+    "id": 63,
+    "jp": "クレールの大鎚",
+    "name": "柯雷尔的大锤",
+    "type": "斧",
+    "stats": [
+      "斧A",
+      "30",
+      "25",
+      "14",
+      "70",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "魔法爆发",
+    "effect": "威力25；炎环消耗5、威力+10，魔法攻击。",
+    "advice": "给混合斧职或高魔力斧手破高物防敌，属于与普通大斧不同的攻击面。",
+    "alternative": "重量14、命中70仍需评估；纯力量角色不一定发挥该战技。",
+    "acquisition": "救世篇：柯雷尔神殿本殿试炼完成",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-213",
+    "oldName": "克雷尔大锤",
+    "cnId": "wp-213"
+  },
+  {
+    "id": 64,
+    "jp": "木製の弓",
+    "name": "木制弓",
+    "type": "弓",
+    "stats": [
+      "弓E",
+      "10",
+      "2",
+      "4",
+      "75",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "低门槛练习武器；伤害不足时换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-72",
+    "oldName": "木制弓",
+    "cnId": "wp-72"
+  },
+  {
+    "id": 65,
+    "jp": "青銅の弓",
+    "name": "青铜弓",
+    "type": "弓",
+    "stats": [
+      "弓E",
+      "15",
+      "4",
+      "6",
+      "75",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期低门槛补给；按击杀线决定是否换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-73",
+    "oldName": "青铜弓",
+    "cnId": "wp-73"
+  },
+  {
+    "id": 66,
+    "jp": "鉄の弓",
+    "name": "铁弓",
+    "type": "弓",
+    "stats": [
+      "弓D",
+      "20",
+      "9",
+      "6",
+      "75",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期常规主武器，优先保证命中与追击。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-74",
+    "oldName": "铁弓",
+    "cnId": "wp-74"
+  },
+  {
+    "id": 67,
+    "jp": "銀の弓",
+    "name": "银弓",
+    "type": "弓",
+    "stats": [
+      "弓B",
+      "20",
+      "18",
+      "5",
+      "75",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "后期高威力补给；技能达标后，比较重量与击杀线。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "救世篇：武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-75",
+    "oldName": "银弓",
+    "cnId": "wp-75"
+  },
+  {
+    "id": 68,
+    "jp": "ダ・ミナの弓",
+    "name": "达·米纳弓",
+    "type": "弓",
+    "stats": [
+      "弓C",
+      "25",
+      "12",
+      "6",
+      "70",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "战技命中",
+    "effect": "使用战技攻击时命中+10；本表为未锻造状态。",
+    "advice": "偏重战技的角色可用它提高可靠性，尤其适合命中不足的斧手。若主要普通攻击，就按基础威力、重量与命中选。",
+    "alternative": "黑烟谷商店与专门武具箱可补，不是必须抢的唯一武器。",
+    "acquisition": "黑烟谷达·米纳商店购买  ；达·米纳武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-83",
+    "oldName": "达米纳弓",
+    "cnId": "wp-83"
+  },
+  {
+    "id": 69,
+    "jp": "ロングボウ",
+    "name": "长弓",
+    "type": "弓",
+    "stats": [
+      "弓C",
+      "20",
+      "12",
+      "13",
+      "60",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "超远程",
+    "effect": "普攻仍是2格；狙击战技3—5格，消耗5，不可追击。",
+    "advice": "能在反击范围外拆法师、远程敌或危险目标，是明显改变战术的工具。适合高命中的狙击手/宗师射手。",
+    "alternative": "村庄商店与良质武具箱可补，功能重要但不是唯一；狙击命中修正来源冲突，按游戏面板执行。",
+    "acquisition": "阿奇纽村商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "狙击战技命中修正：Altema -10、Game8 -30、GameWith +30。尚未取得游戏截图裁决，不在结论中指定其数值。",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ],
+      [
+        "Game8：长弓（冲突值）",
+        "https://game8.jp/fe-banshisenko/819474"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-77",
+    "oldName": "长弓",
+    "cnId": "wp-77"
+  },
+  {
+    "id": 70,
+    "jp": "馬殺しの弓",
+    "name": "屠马弓",
+    "type": "弓",
+    "stats": [
+      "弓C",
+      "20",
+      "10",
+      "8",
+      "70",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "克骑",
+    "effect": "对骑兵有利，同时保留弓系对飞行的定位。",
+    "advice": "一个弓手可覆盖两类高机动敌人，敌方骑兵多时比普通弓更有价值。",
+    "alternative": "队伍已有足够克骑手段可略过；商店与箱子可补。",
+    "acquisition": "亚曼村商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-80",
+    "oldName": "杀马弓",
+    "cnId": "wp-80"
+  },
+  {
+    "id": 71,
+    "jp": "風の弓",
+    "name": "风弓",
+    "type": "弓",
+    "stats": [
+      "弓C",
+      "20",
+      "9",
+      "5",
+      "80",
+      "10",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "回避·轻量",
+    "effect": "威力9、重量5、命中80、回避+10，普攻2格；并非魔法攻击。",
+    "advice": "与铁弓同基础威力，但更轻、命中更高且加回避，绝非纯换皮。适合高速剑弓职、回避构筑；站安全后排只求输出则不是必买。",
+    "alternative": "已确认商店4000G、单店库存1，另有凯伊篇第4章奇石收集奖励等来源；并非看到一次不买就永久错过。",
+    "acquisition": "欧连斯镇商店购买；补充：欧连斯镇商店4000G、库存1；凯伊篇第4章奇石收集奖励。",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ],
+      [
+        "GameWith：风弓面板/获取",
+        "https://gamewith.jp/fefw/578494"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-82",
+    "oldName": "风弓",
+    "cnId": "wp-82"
+  },
+  {
+    "id": 72,
+    "jp": "獣狩りの弓",
+    "name": "猎兽弓",
+    "type": "弓",
+    "stats": [
+      "弓D",
+      "20",
+      "6",
+      "7",
+      "70",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "克兽",
+    "effect": "对兽有利，基础威力6。",
+    "advice": "兽敌密集时留一把工具；普通人形敌不如常规输出弓。",
+    "alternative": "有商店、固定箱与武具箱来源；看近期地图决定买不买。",
+    "acquisition": "利贝拉村商店购买  ；第一部：迦连堡垒残迹的宝箱  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-79",
+    "oldName": "猎兽弓",
+    "cnId": "wp-79"
+  },
+  {
+    "id": 73,
+    "jp": "アガゼの弓",
+    "name": "亚革杰之弓",
+    "type": "弓",
+    "stats": [
+      "弓A",
+      "20",
+      "10",
+      "10",
+      "65",
+      "0",
+      "0",
+      "2",
+      "2"
+    ],
+    "priority": "按构筑",
+    "tag": "双重控制·诅咒",
+    "effect": "祸射消耗5，命中修正-50；命中后魔封+移动封锁，不可追击，诅咒2。",
+    "advice": "价值是控制危险敌人，而不是伤害。能补足命中的角色可尝试封法师或钉住敌人；低命中时不能依赖它救命。",
+    "alternative": "固定探索箱值得拿，但没证据证明永久唯一；长弓以安全点杀替代部分控制需求。紫色本身不是必拿理由。",
+    "acquisition": "第一部：瓦卢哈拉矿山的宝箱",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-88",
+    "oldName": "阿加泽弓",
+    "cnId": "wp-88"
+  },
+  {
+    "id": 74,
+    "jp": "毒の弓",
+    "name": "毒弓",
+    "type": "弓",
+    "stats": [
+      "弓D",
+      "20",
+      "3",
+      "4",
+      "75",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "远程上毒",
+    "effect": "命中上毒；+3解锁毒杀箭，对中毒敌攻击+8、命中+20，消耗2。",
+    "advice": "低风险上毒工具，适合毒连携队和从异常状态获益的角色；不是单发输出弓。",
+    "alternative": "多商店/箱子来源，不稀缺；无毒配合时可不投资锻造。",
+    "acquisition": "亚曼村商店购买  ；基拉之村商店购买  ；第一部：禁忌之森的宝箱",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-85",
+    "oldName": "毒弓",
+    "cnId": "wp-85"
+  },
+  {
+    "id": 75,
+    "jp": "バトルボウ",
+    "name": "战弓",
+    "type": "弓",
+    "stats": [
+      "弓C",
+      "25",
+      "14",
+      "14",
+      "50",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "高威力",
+    "effect": "威力14、重量14、命中50。",
+    "advice": "适合高命中、能承受重量的角色或特定战技；普通弓手可能因丢追击、打空而不如铁弓。",
+    "alternative": "没有独占功能，缺钱或缺命中时可错过。",
+    "acquisition": "王都布雷斯顿商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-159",
+    "oldName": "战弓",
+    "cnId": "wp-159"
+  },
+  {
+    "id": 76,
+    "jp": "カーラの弓",
+    "name": "卡拉的弓",
+    "type": "弓",
+    "stats": [
+      "弓A",
+      "30",
+      "13",
+      "6",
+      "70",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "极远程",
+    "effect": "天风战技3—10格，消耗10，不可追击；普通射程仍是2。",
+    "advice": "极远距离处理高威胁目标，战术覆盖明显超出普通长弓。蕾达路线神殿试炼值得完成。",
+    "alternative": "基础耐久30仅够3次天风；这是卡拉的弓，不是普通风弓。需要修理规划。",
+    "acquisition": "蕾达篇：第一部卡拉神殿本殿试炼完成(10章以后)",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-225",
+    "oldName": "卡拉之弓",
+    "cnId": "wp-225"
+  },
+  {
+    "id": 77,
+    "jp": "ショートボウ",
+    "name": "短弓",
+    "type": "弓",
+    "stats": [
+      "弓D",
+      "20",
+      "5",
+      "5",
+      "75",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "贴身反击",
+    "effect": "普攻射程1—2，威力5、重量5。",
+    "advice": "弓系少见的稳定1格攻击/反击，特别适合战车兵或需要敌方回合应战的弓手。低威力不影响它的工具价值。",
+    "alternative": "长弓不能替代贴身功能；蕾达第2章箱子与良质武具箱等可获得，不是全局唯一。",
+    "acquisition": "蕾达篇：2章波尔波亚之战 宝箱取得  ；良质武具箱随机取得",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ],
+      [
+        "Game8：短弓",
+        "https://game8.jp/fe-banshisenko/822149"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-205",
+    "oldName": "短弓",
+    "cnId": "wp-205"
+  },
+  {
+    "id": 78,
+    "jp": "イデアの弓",
+    "name": "伊迪亚之弓",
+    "type": "弓",
+    "stats": [
+      "弓B",
+      "20",
+      "18",
+      "8",
+      "80",
+      "0",
+      "0",
+      "2",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "续航",
+    "effect": "圣闪消耗1、威力+3，击杀后中幅回复HP，武器还强化其回复。",
+    "advice": "可靠击杀时能顺带续航；低消耗适合常用。",
+    "alternative": "救世篇亚丝望初始装备；无需在早期商人处苦等。",
+    "acquisition": "救世篇：亚丝望加入时初始装备",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-160",
+    "oldName": "伊迪亚之弓",
+    "cnId": "wp-160"
+  },
+  {
+    "id": 79,
+    "jp": "木製の籠手",
+    "name": "木制手甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术E",
+      "10",
+      "2",
+      "1",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "低门槛练习武器；伤害不足时换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-89",
+    "oldName": "木制手甲",
+    "cnId": "wp-89"
+  },
+  {
+    "id": 80,
+    "jp": "青銅の籠手",
+    "name": "青铜手甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术E",
+      "15",
+      "3",
+      "2",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期低门槛补给；按击杀线决定是否换铁制。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-90",
+    "oldName": "青铜手甲",
+    "cnId": "wp-90"
+  },
+  {
+    "id": 81,
+    "jp": "鉄の籠手",
+    "name": "铁手甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术D",
+      "20",
+      "8",
+      "3",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "早期常规主武器，优先保证命中与追击。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "武器商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-91",
+    "oldName": "铁手甲",
+    "cnId": "wp-91"
+  },
+  {
+    "id": 82,
+    "jp": "銀の籠手",
+    "name": "银手甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术B",
+      "20",
+      "18",
+      "5",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "普通补给",
+    "tag": "基础武器",
+    "effect": "本体无此表确认的特殊功能。",
+    "advice": "后期高威力补给；技能达标后，比较重量与击杀线。",
+    "alternative": "已有同类武器够用时可略过。",
+    "acquisition": "救世篇：武器商店购买",
+    "scarcity": "有商店来源；各店库存与章节开放需核对",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-92",
+    "oldName": "银手甲",
+    "cnId": "wp-92"
+  },
+  {
+    "id": 83,
+    "jp": "ダ・ミナの籠手",
+    "name": "达·米纳手甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术C",
+      "25",
+      "11",
+      "4",
+      "90",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "战技命中",
+    "effect": "使用战技攻击时命中+10；本表为未锻造状态。",
+    "advice": "偏重战技的角色可用它提高可靠性，尤其适合命中不足的斧手。若主要普通攻击，就按基础威力、重量与命中选。",
+    "alternative": "黑烟谷商店与专门武具箱可补，不是必须抢的唯一武器。",
+    "acquisition": "黑烟谷达·米纳商店购买  ；达·米纳武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-156",
+    "oldName": "达米纳手甲",
+    "cnId": "wp-156"
+  },
+  {
+    "id": 84,
+    "jp": "反撃の籠手",
+    "name": "反击手甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术C",
+      "20",
+      "11",
+      "4",
+      "70",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "敌方回合输出",
+    "effect": "敌方先攻时攻击+5；本体命中70。",
+    "advice": "适合能站住、愿意诱敌的拳系；主动进攻并不享受这5点。",
+    "alternative": "命中低于铁手甲20，必须把可靠性一起算。",
+    "acquisition": "城塞都市蒙思商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-94",
+    "oldName": "反击手甲",
+    "cnId": "wp-94"
+  },
+  {
+    "id": 85,
+    "jp": "ジャマダハル",
+    "name": "拳刃",
+    "type": "手甲",
+    "stats": [
+      "剑D/格斗术D",
+      "20",
+      "12",
+      "5",
+      "90",
+      "0",
+      "5",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "必杀",
+    "effect": "本体必杀5，必杀甲战技再+20、消耗2。",
+    "advice": "高技巧拳手叠必杀的装备，非必杀伤害仍要能接受。",
+    "alternative": "固定补刀时可用高命中普通手甲，不必赌暴击。",
+    "acquisition": "王都布雷斯顿商店购买  ；高级武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-157",
+    "oldName": "拳刃",
+    "cnId": "wp-157"
+  },
+  {
+    "id": 86,
+    "jp": "サラマンダー",
+    "name": "沙拉曼达",
+    "type": "手甲",
+    "stats": [
+      "格斗术E",
+      "3",
+      "2",
+      "3",
+      "80",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "魔法普攻·远程",
+    "effect": "普攻魔法伤害、射程1—2；基础耐久3，普通攻击不消耗耐久。",
+    "advice": "把高魔力拳系角色变成近远程魔法输出。不能因为只有3耐久就误判成只能打3次。",
+    "alternative": "战技消耗2须及时修理；有早期探索箱和其他加入来源，具体路线时间不同。",
+    "acquisition": "第一部：南侧通道的宝箱",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-95",
+    "oldName": "火蜥蜴",
+    "cnId": "wp-95"
+  },
+  {
+    "id": 87,
+    "jp": "ブレイザブリク",
+    "name": "布雷萨布利克",
+    "type": "手甲",
+    "stats": [
+      "格斗术E",
+      "20",
+      "2",
+      "4",
+      "85",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "魔法·支援",
+    "effect": "魔法普攻、1—2；支援值较易增长；战技按邻接友军人数增伤。",
+    "advice": "适合边战斗边培养支援，或集群站位的魔法拳手。",
+    "alternative": "免费更新特典，基础威力低；不必把它当最高输出。",
+    "acquisition": "免费更新特典",
+    "scarcity": "免费更新赠品；无需花钱追购",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-103",
+    "oldName": "布雷扎布利克",
+    "cnId": "wp-103"
+  },
+  {
+    "id": 88,
+    "jp": "対魔の籠手",
+    "name": "对魔铁甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术C",
+      "20",
+      "12",
+      "5",
+      "80",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "魔防",
+    "effect": "魔防+3；正确普攻射程1格。",
+    "advice": "承受少量魔法压力时可用，但3魔防不代表能安全冲进法师群。",
+    "alternative": "不是远程手甲；资料有误，不能为1—2射程买它。",
+    "acquisition": "尼札港商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "Altema将射程列为1—2，Game8与Appmedia为1；此处采用1。",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ],
+      [
+        "Game8：对魔铁甲",
+        "https://game8.jp/fe-banshisenko/819461"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-99",
+    "oldName": "对魔手甲",
+    "cnId": "wp-99"
+  },
+  {
+    "id": 89,
+    "jp": "乾坤圏",
+    "name": "乾坤圈",
+    "type": "手甲",
+    "stats": [
+      "剑D/格斗术C",
+      "20",
+      "10",
+      "4",
+      "70",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "优先留1",
+    "tag": "物理远程",
+    "effect": "射程1—2、威力10、重量4；剑D/格斗术C。",
+    "advice": "让物理拳手也有稳定远程与反击覆盖；与沙拉曼达的魔法攻击是两种解法。",
+    "alternative": "商店5000G、单店库存1，另有高级武具箱；预算紧可等替代品，但功能确实重要。",
+    "acquisition": "海都阿雷库托商店购买  ；高级武具箱随机取得；该商店5000G、库存1。",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-101",
+    "oldName": "乾坤圈",
+    "cnId": "wp-101"
+  },
+  {
+    "id": 90,
+    "jp": "大熊の右鉤爪",
+    "name": "大熊的右钩爪",
+    "type": "手甲",
+    "stats": [
+      "格斗术B",
+      "20",
+      "15",
+      "1",
+      "75",
+      "0",
+      "0",
+      "1",
+      "1"
+    ],
+    "priority": "按构筑",
+    "tag": "连击·诅咒",
+    "effect": "重量1、威力15；暴爪消耗10，连续3击，每击50%伤害。",
+    "advice": "轻量爆发拳，适合后期单次战技输出；总计并不是3倍普通伤害。",
+    "alternative": "修理频繁且有诅咒限制；诺克裘拉后期加入自带。",
+    "acquisition": "诺克裘拉加入时初始装备(后期加入时)",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-98",
+    "oldName": "大熊右钩爪",
+    "cnId": "wp-98"
+  },
+  {
+    "id": 91,
+    "jp": "ツェルベルス",
+    "name": "杰尔贝鲁斯",
+    "type": "手甲",
+    "stats": [
+      "格斗术A",
+      "5",
+      "9",
+      "5",
+      "80",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "魔法普攻·远程",
+    "effect": "魔法伤害、射程1—2，耐久5；强化光弹战技消耗2。",
+    "advice": "高魔力拳手的远程主力候选，与特洛伊亚自身技能能有额外配合。",
+    "alternative": "不要把角色自带特效误写成所有人装备都有效；其他人按自身技能评估。",
+    "acquisition": "救世篇：特洛伊亚加入时初始装备",
+    "scarcity": "角色加入装备；不是普通商人采购目标",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-97",
+    "oldName": "刻耳柏洛斯",
+    "cnId": "wp-97"
+  },
+  {
+    "id": 92,
+    "jp": "風火輪",
+    "name": "风火轮",
+    "type": "手甲",
+    "stats": [
+      "剑D/格斗术B",
+      "15",
+      "17",
+      "6",
+      "65",
+      "0",
+      "0",
+      "1-2",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "远程·先追击战技",
+    "effect": "本体1—2；炎轮为魔法攻击，追击可先于反击，消耗5。",
+    "advice": "能追击时，有望先打完两击解决敌人；并不保证无条件产生追击。",
+    "alternative": "需要魔力、攻速与命中65的补偿；普通物理拳手未必发挥最好。",
+    "acquisition": "第一部：迪欧涅堡垒的宝箱",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-100",
+    "oldName": "风火轮",
+    "cnId": "wp-100"
+  },
+  {
+    "id": 93,
+    "jp": "身躱しの籠手",
+    "name": "闪身手甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术C",
+      "20",
+      "11",
+      "3",
+      "80",
+      "10",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "按构筑",
+    "tag": "回避",
+    "effect": "回避+10、重量3、命中80。",
+    "advice": "拳系回避构筑的直接工具，叠职业回避与速度能改善生存。",
+    "alternative": "不追求回避流就不是必买；商店与良质箱可补。",
+    "acquisition": "迪莫尼库村商店购买  ；良质武具箱随机取得",
+    "scarcity": "多来源；可从商店或武具箱补充",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-93",
+    "oldName": "闪避手甲",
+    "cnId": "wp-93"
+  },
+  {
+    "id": 94,
+    "jp": "スミルノスの雷甲",
+    "name": "史米尔诺斯的雷甲",
+    "type": "手甲",
+    "stats": [
+      "格斗术A",
+      "20",
+      "7",
+      "1",
+      "85",
+      "0",
+      "0",
+      "1",
+      "-"
+    ],
+    "priority": "剧情保留",
+    "tag": "轻量·魔法战技",
+    "effect": "重量1；普通1格，雷甲战技1—2格魔法攻击，消耗5、威力+10。",
+    "advice": "非常轻，适合重视攻速又想保留魔法攻击面的拳手。",
+    "alternative": "别把战技射程当普攻射程；救世篇神殿试炼奖励值得留。",
+    "acquisition": "救世篇：史米尔诺斯神殿本殿试炼完成",
+    "scarcity": "已知固定/路线来源；未证明全周目唯一",
+    "error": "",
+    "sources": [
+      [
+        "Altema：基础面板与获取",
+        "https://altema.jp/febansisenkou/bukiitiran"
+      ]
+    ],
+    "cnSource": "https://cn.fire-emblem-fw.site/items.html#wp-215",
+    "oldName": "史米尔诺斯雷甲",
+    "cnId": "wp-215"
+  }
+]
