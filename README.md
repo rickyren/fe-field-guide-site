@@ -4,4 +4,4 @@
 
 在线访问：https://rickyren.github.io/fe-field-guide-site/
 
-游戏相关权利归 Nintendo / INTELLIGENT SYSTEMS；UP主评价版权归原作者（企鹅半岛、穹渊Destiny、Pser_hanser），附原视频时间戳链接。
+游戏相关权利归 Nintendo / INTELLIGENT SYSTEMS；UP主评价为对企鹅半岛、穹渊Destiny、Pser_hanser视频观点的书面化整理，观点版权归原作者，附原视频时间戳链接。法表与技能学习表数据来自 https://cn.fire-emblem-fw.site/ 。
